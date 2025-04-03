@@ -88,6 +88,9 @@
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Deplpyment
+   https://www.veed.io/view/f291da0b-059b-4313-8b44-674f527c3509?panel=share
+
 ## 📬 Contact
 
 For questions, suggestions, or collaborations, reach out:
